@@ -1,0 +1,14 @@
+body{
+    background-color: plum;
+}
+div {
+    width: 300px;
+    border: 15px solid lavenderblush;
+    background-color: aquamarine;
+    padding: 50px;
+    margin: 20px;
+  }
+  h1 {
+    text-shadow: 2px 2px peru;
+    font-family:"Times New Roman, Times, serif";
+  }
